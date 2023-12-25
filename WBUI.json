@@ -16,7 +16,7 @@
       {
       },
       {
-        "tab3": {
+        "tab1": {
           "layout": 3,
           "buttontext": "Latest News",
           "title1": "Welcome to Iron Nexus!",
@@ -29,7 +29,7 @@
         }
       },
       {
-        "tab4": {
+        "tab2": {
           "layout": 2,
           "buttontext": "Server Rates & Rules",
           "title1": "Rates & Settings",
