@@ -14,8 +14,6 @@
       },
     "tabs": [
       {
-      },
-      {
         "tab1": {
           "layout": 3,
           "buttontext": "Latest News",
@@ -30,16 +28,12 @@
       },
       {
         "tab2": {
-          "layout": 4,
+          "layout": 2,
           "buttontext": "Server Rates & Rules",
           "title1": "Rates & Settings",
-          "title2": "Server Rules</>",
-          "title3": "<TextStyle.Blue>bottom left title</>",
-          "title4": "<TextStyle.Yellow>bottom right title</>",
+          "title2": "Server Rules",
           "text1": "XP: 2\nHarvest: 3\nTaming: 1 (Use Appetizers for quicker/instant Tames)\n\nDaytime Length: 0.5\nNighttime Length: 0.5\n\nAdmin Logging: Yes\nGamma: Allowed\nThird Person: Allowed\n\nUnlimited Respecs: No\nTamed Dinos per Tribe: 100\n\nWild Dino Level: 150\nDino Food Drain: 1\nHarvest Health: 1\n\nEgg Intervals: 1\nEgg Hatceh Speed: 3\nBaby Mature Speed: 3\nMating Interval: 1\n\nCrosshair: Enabled\nHardcoremode: Off\nStructure Decay: x2",
           "text2": "Make sure you've connected your in-game character to our website so the system recognizes you in-game! Use Command <TextStyle.Orange>!getconnectcode</> in chat to get a code to paste into your Profile Settings on site!\n\n1. Keep the game enjoyable for others. Remind your fellow survivors about this.\n2. Don't leave creatures set to Mating. Disable all creatures when you're finished.\n3. Don't block access to public places with buildings, turrets or dinos. Ex: Spawn Points, Obelisks, Caves, etc\n4. Clean up after yourself. Don't leave traps and other structures you don't plan to use laying around.\n5. No mass land 'claiming'.\n6. No Pillar/Foundation Spamming.\n7. No Massive Bases (Use Common Sense).\n8. Only 1 Tribe Base and Outpost is allowed.\n\nPermabans will be given for:\nAny form of racism, homophobia or targeted trash talk\nAny form of hacking, cheating or exploiting",
-          "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-          "text4": "<TextStyle.White>This text goes into the bottom right box</>",
           "imageurl": "https://i.imgur.com/fFRiFAU.jpg"
         }
       }
