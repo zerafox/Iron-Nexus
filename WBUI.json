@@ -2,9 +2,9 @@
   "WBUI2": {
     "settings": {
         "OpenButton": 0,
-        "HideIcon": false,
+        "HideIcon": true,
         "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/KemnSfP.png",
+        "IconURL": "https://i.imgur.com/PhhojcR.jpg",
         "DisableIconText": false,
         "IconPosition": 0,
         "IconTextColor": 0,
