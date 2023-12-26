@@ -23,7 +23,7 @@
           "text1": "We're a friendly community focused on fun, function and keeping a balance.\n\nAll our settings, mods and plugins are focused around maintaining the idea of ARK's gameplay while removing the painful grind or tedious actions day in and day out.\n\nAny and all Quality of Life features we offer that may alter the way you play the game in any way will need to be worked for and earned. We don't believe in handouts and it makes things that much more rewarding when you achieve them!\n\nWe're a server who cares about your game and your fun. Come meet our players and introduce yourself!",
           "text2": "<TextStyle.Yellow>- Added this new UI w/ mod WBUI2!</>\n<TextStyle.Yellow>- New Map: Svartalfheim (/servers and /transfer)</>\n<TextStyle.Yellow>- Working Class Module Adjustments</>",
           "text3": "<TextStyle.LightBlue>Cat</>\n<TextStyle.Violet>Ethan</>",
-          "imageurl": "https://i.imgur.com/fFRiFAU.jpg"
+          "imageurl": "https://i.imgur.com/5my1V3N.jpg"
         }
       },
       {
@@ -34,7 +34,7 @@
           "title2": "Server Rules",
           "text1": "XP: 2\nHarvest: 3\nTaming: 1 (Use Appetizers for quicker/instant Tames)\n\nDaytime Length: 0.5\nNighttime Length: 0.5\n\nAdmin Logging: Yes\nGamma: Allowed\nThird Person: Allowed\n\nUnlimited Respecs: No\nTamed Dinos per Tribe: 100\n\nWild Dino Level: 150\nDino Food Drain: 1\nHarvest Health: 1\n\nEgg Intervals: 1\nEgg Hatceh Speed: 3\nBaby Mature Speed: 3\nMating Interval: 1\n\nCrosshair: Enabled\nHardcoremode: Off\nStructure Decay: x2",
           "text2": "Make sure you've connected your in-game character to our website so the system recognizes you in-game!\nUse Command <TextStyle.Orange>!getconnectcode</> in chat to get a code to paste into your Profile Settings on site!\n\n1. Keep the game enjoyable for others. Remind your fellow survivors about this.\n2. Don't leave creatures set to Mating. Disable all creatures when you're finished.\n3. Don't block access to public places with buildings, turrets or dinos. Ex: Spawn Points, Obelisks, Caves, etc\n4. Clean up after yourself. Don't leave traps and other structures you don't plan to use laying around.\n5. No mass land 'claiming'.\n6. No Pillar/Foundation Spamming.\n7. No Massive Bases (Use Common Sense).\n8. Only 1 Tribe Base and Outpost is allowed.\n\nPermabans will be given for:\nAny form of racism, homophobia or targeted trash talk\nAny form of hacking, cheating or exploiting",
-          "imageurl": "https://i.imgur.com/fFRiFAU.jpg"
+          "imageurl": "https://i.imgur.com/5my1V3N.jpg"
         }
       },
       {
@@ -45,7 +45,7 @@
         "text1": "<TextStyle.Red>Does this server do regular wipes?</>\nNo, there are no plans to do any wipes on the server(s).\n\n<TextStyle.Red>How do I connect my Character to the Discord?</>\nMake sure you use <RichColor Color=\"1,0.65,0,1\">/verify</> in Discord to link your character to our Discord Roles!\n\n<TextStyle.Red>I accepted the website rules, why do I still get notice ingame?</>\nYou haven't connected your in-game character to our website yet. You will need to do that for the system to recognize you ingame\n\n<TextStyle.Red>How do I connect my character to the website?</>\nType !getconnectcode ingame. As a security measure, you need to type it twice.\nNavigate to the website and enter the code in your account settings page.\n\n<TextStyle.Red>I found someone breaking some rules, where do I report?</>\nYou can report ingame with the built-in Report function (Access this via your Radial Wheel) or on our website Report Forums.\nOPlease provide as much detail as you can, images, videos and anything else you feel important to help address the issue\n\n<TextStyle.Red>Will this Cluster support X Map?</>\nWe have plans to add as many servers as our hardware allows us to!\n\n<TextStyle.Red>How can I support the server?</>\nYou can offer financial support from our Support Shop below. Options for Single Time Donations, Monthly Subs that include perks and of course, ingame gifts!\nYou can also help out by voting for our server(s) too!\n\n<TextStyle.Red>How do I dismount my flyer?</>\nDouble tap your use/dismount key or hold button.\nYou can toggle it on/off by using Alt+Use buttons.\n\n<TextStyle.Red>How often can I mindwipe?</>\nYou can mindwipe once every 24hrs. Vanilla Rate.",
         "title2": "Commands",
         "text2": "This text goes into the top right box",
-        "imageurl": "https://i.imgur.com/fFRiFAU.jpg"
+        "imageurl": "https://i.imgur.com/5my1V3N.jpg"
       }
     }
     ],
