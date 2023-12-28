@@ -45,7 +45,16 @@
         "text1": "<TextStyle.Orange>Does this server do regular wipes?</>\nNo, there are no plans to do any wipes on the server(s).\n\n<TextStyle.Orange>How do I connect my Character to the Discord?</>\nMake sure you use <RichColor Color=\"1,0.65,0,1\">/verify</> in Discord to link your character to our Discord Roles!\n\n<TextStyle.Orange>I accepted the website rules, why do I still get notice ingame?</>\nYou haven't connected your in-game character to our website yet. You will need to do that for the system to recognize you ingame\n\n<TextStyle.Orange>How do I connect my character to the website?</>\nType <RichColor Color=\"1,0.65,0,1\">!getconnectcode</> ingame. This needs to be in <RichColor Color=\"1,0,0,1\">Local Chat</> to function. As a security measure, you need to type it twice. Navigate to the website and enter the code in your account settings page.\n\n<TextStyle.Orange>I found someone breaking some rules, where do I report?</>\nYou can report ingame with the built-in Report function (Access this via your Radial Wheel) or on our website Report Forums.\nPlease provide as much detail as you can, images, videos and anything else you feel important to help address the issue\n\n<TextStyle.Orange>Will this Cluster support X Map?</>\nWe have plans to add as many servers as our hardware allows us to!\n\n<TextStyle.Orange>How can I support the server?</>\nYou can offer financial support from our Support Shop below. Options for Single Time Donations, Monthly Subs that include perks and of course, ingame gifts!\nYou can also help out by voting for our server(s) too!\n\n<TextStyle.Orange>How do I dismount my flyer?</>\nDouble tap your use/dismount key or hold button.\nYou can toggle it on/off by using Alt+Use buttons.\n\n<TextStyle.Orange>How often can I mindwipe?</>\nYou can mindwipe once every 24hrs. Vanilla Rate.",
         "title2": "Commands",
         "text2": "<TextStyle.Green>Use the Radial Wheel to access our website, rewards, voting and more!</>\nDefault - PC: R | Xbox: X | PS: Square\n\n<TextStyle.Yellow>/servers</>\nThis will list all available servers.\n\n<TextStyle.Yellow>/travel #</>\nAllows transfer to any available server.\n\n<TextStyle.Yellow>/verify</>\nUse in discord to link your character. Needed for roles.\n\n<TextStyle.Orange>------ Use Local Chat for !commands ------</>\n\n<TextStyle.Yellow>!getconnectcode</>\nUse twice. You this to link character to website in account settings.\n\n<TextStyle.Yellow>!claim</>\nThis will claim pending vote rewards.",
-        "imageurl": "https://i.imgur.com/13TWVG7.jpg"
+        "imageurl": "https://i.imgur.com/JXdwCd2.jpg"
+      }
+    },
+    {
+      "tab4": {
+        "layout": 1,
+        "buttontext": "Feature Tribe",
+        "title1": "<TextStyle.Orange>Tek Effect - Shepard</>",
+        "text1": "",
+        "imageurl": "https://i.imgur.com/k8AVKC9.jpg"
       }
     }
     ],
@@ -59,7 +68,7 @@
       {
         "link2": {
           "text": "Website",
-          "url": "https://iron-nexus.gameserverapp.net/"
+          "url": "https://iron-nexus.gameserverapp.net/news"
         }
       },
       {
