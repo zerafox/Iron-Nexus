@@ -22,7 +22,7 @@
           "title2": "<TextStyle.Orange>Latest News</>",
           "text2": "<TextStyle.Yellow>- Added this new UI w/ mod WBUI2!</>\n<TextStyle.Yellow>- New Map: Svartalfheim (/servers and /travel)</>\n<TextStyle.Yellow>- Working Class Module Adjustments</>\n<TextStyle.Yellow>- Made Vanilla Cryopods able to deploy without a Vanilla Terminal nearby.</>\n<TextStyle.Yellow>- Added Shiny!</> This is a trial and testing phase, settings and adjustments may or may not occur!",
           "title3": "<TextStyle.Red>Our Amazing Supporters!</>",
-          "text3": "<TextStyle.LightBlue>Cat</>\n<TextStyle.Violet>Ethan</>",
+          "text3": "<TextStyle.LightBlue>Cat</>\n<TextStyle.LightBlue>Ethan</>\n<TextStyle.Green>HuHoo</>",
           "imageurl": "https://i.imgur.com/UKgiR1A.jpg"
         }
       },
