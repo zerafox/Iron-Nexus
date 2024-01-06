@@ -73,8 +73,14 @@
       },
       {
         "link3": {
-          "text": "Support Shop",
+          "text": "Support Us",
           "url": "https://iron-nexus.gameserverapp.net/supporter-tier"
+        }
+      },
+      {
+        "link4": {
+          "text": "Reward Shop",
+          "url": "https://iron-nexus.gameserverapp.net/shop"
         }
       }
     ]
