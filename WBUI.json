@@ -85,9 +85,15 @@
       },
       {
         "link5": {
-          "text": "Feedback Survey",
-          "url": "https://iron-nexus.gameserverapp.net/page/90878-february-feedback-poll"
+          "text": "Players Online",
+          "url": "https://iron-nexus.gameserverapp.net/inspector?search=&search_type=character&order_by=name&order=asc&only_online=1"
         }
+      },
+      {
+        "link6": {
+        "text": "Feedback Survey",
+        "url": "https://iron-nexus.gameserverapp.net/page/90878-february-feedback-poll"
+      }
       }
     ]
   }
