@@ -176,6 +176,19 @@
                     "alternateItems": []
                 }
             ]
+        },
+        {
+            "dinoType": "Blueprint'/AAArchelon/Dinos/ArchelonAA_Character_BP.ArchelonAA_Character_BP'",
+            "produces":[
+                {
+                    "intervalSeconds": 60,
+                    "alternateItemChance": 0.0,
+                    "items": [
+                        "Blueprint'/AAArchelon/Content/Dinos/Consumables/PrimalItemConsumableEatable_Sushi'"
+                    ],
+                    "alternateItems": []
+                }
+            ]
         }
     ]
 }
