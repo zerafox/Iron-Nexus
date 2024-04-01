@@ -64,18 +64,12 @@
       },
       {
         "link3": {
-          "text": "Reward Shop",
-          "url": "https://iron-nexus.gameserverapp.net/shop"
-        }
-      },
-      {
-        "link4": {
           "text": "Support Shop",
           "url": "https://iron-nexus.gameserverapp.net/supporter-tier"
         }
       },
       {
-        "link5": {
+        "link4": {
           "text": "Players Online",
           "url": "https://iron-nexus.gameserverapp.net/inspector?search=&search_type=character&order_by=name&order=asc&only_online=1"
         }
