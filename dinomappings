@@ -3,6 +3,14 @@
     {
       "fromClass": "/AACeratosaurus/Dinos/CeratosaurusAA_Character_BP.CeratosaurusAA_Character_BP",
       "toClass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA"
+    },
+    {
+      "fromClass": "/AAXipachtinus/Dinos/XiphactinusAA_Character_BP.XiphactinusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA"
+    },
+    {
+      "fromClass": "/AAXipachtinus/Dinos/XiphactinusAA_Abyssal_Character_BP.XiphactinusAA_Abyssal_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA"
     }
   ]
 }
