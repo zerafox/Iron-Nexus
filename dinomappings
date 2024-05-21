@@ -1,0 +1,8 @@
+{
+  "dinoMappings": [
+    {
+      "fromClass": "/AACeratosaurus/Dinos/CeratosaurusAA_Character_BP.CeratosaurusAA_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA"
+    }
+  ]
+}
