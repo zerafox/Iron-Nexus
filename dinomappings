@@ -11,6 +11,10 @@
     {
       "fromClass": "/AAXipachtinus/Dinos/XiphactinusAA_Abyssal_Character_BP.XiphactinusAA_Abyssal_Character_BP",
       "toClass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA"
+    },
+    {
+     "fromClass": "/AADeinosuchus/Dinos/DeinosuchusAA_Character_BP",
+     "toClass": "/Game/ASA/Dinos/Deinosuchus/Deinosuchusasa_Character_BP"
     }
   ]
 }
